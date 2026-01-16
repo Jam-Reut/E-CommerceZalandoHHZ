@@ -1,15 +1,5 @@
-<<<<<<< HEAD
+pandas
 numpy
 matplotlib
 seaborn
-pandas
 scikit-learn
-jupyter
-=======
-numpy
-matplotlib
-seaborn
-pandas
-scikit-learn
-jupyter
->>>>>>> 11af853c9744ff3c0d00388f6c4bbd11bfba7a7b
